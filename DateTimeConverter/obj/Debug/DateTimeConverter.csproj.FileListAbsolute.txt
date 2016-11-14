@@ -1,0 +1,14 @@
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\bin\Debug\DateTimeConverter.exe.config
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\bin\Debug\DateTimeConverter.exe
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\bin\Debug\DateTimeConverter.pdb
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter.csprojResolveAssemblyReference.cache
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\MainWindow.baml
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\MainWindow.g.cs
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\App.g.cs
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter_MarkupCompile.cache
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter.g.resources
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter.Properties.Resources.resources
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter.csproj.GenerateResource.Cache
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter.exe
+C:\Users\richard.zha\Desktop\Tool\DateTimeConverter\DateTimeConverter\obj\Debug\DateTimeConverter.pdb
